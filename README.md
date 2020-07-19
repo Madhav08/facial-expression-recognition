@@ -12,4 +12,4 @@ Collect dataset from [here](https://www.kaggle.com/c/challenges-in-representatio
 6. openCv 2
 
 ## Usage
-Run the code blocks in the  in the order to see the result.
+Run the code blocks in the [notebook](https://github.com/Madhav08/facial-expression-recognition/blob/master/Real-Time-Face-Expression-Recognition.ipynb)  in the order to see the result.
